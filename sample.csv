@@ -1,0 +1,4 @@
+Subject,Start Date,Start Time,End Date,End Time,All Day,Description,Location,UID
+My important event,04/19/2012,6:00pm,04/19/2012,9:00pm,false,Longer Description,San Francisco CA,abcdefghij@google.com
+An all-day event,04/19/2012,,04/19/2012,,true,Missing times are OK,New York NY,klmnopqrst@yahoo.com
+A multi-day event,04/19/2012,6:00pm,04/20/2012,6:00pm,false,Start date and end date are different,Las Vegas NV,uvwxyz@outlook.com
